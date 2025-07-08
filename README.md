@@ -49,7 +49,7 @@ This is a portfolio-grade project made to demonstrate:
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/ChessAnalyzer.git
+git clone https://github.com/Kopriwchin/ChessAnalyzer.git
 cd ChessAnalyzer
 
 # Run DB migrations
